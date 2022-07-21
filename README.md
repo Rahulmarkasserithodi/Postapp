@@ -8,6 +8,15 @@ In the project directory, you can run:
 
 ### `npm start`
 
+# Problems with the code
+
+not able to perform login and logout
+default login/logout => Home.jsx > user= true (log in) user = false (logout)
+
+not able to load and edit comments api
+
+page only redirects to the next page when reloaded
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
