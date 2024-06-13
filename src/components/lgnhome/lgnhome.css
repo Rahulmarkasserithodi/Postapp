@@ -1,0 +1,23 @@
+.lgnHome {
+  margin-top: 5px;
+}
+
+.lgnHomeTitles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Lora", serif;
+  color: #444;
+}
+.lgnHomeTitleLg {
+  position: absolute;
+  top: 10%;
+  font-size: 100px;
+}
+
+.lgnHomeImg {
+  width: 100%;
+  height: 60%;
+  margin-top: 45px;
+  object-fit: cover;
+}
